@@ -1,12 +1,9 @@
-- 👋 Hi, I’m @ra8442026
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Boas vindas ao meu perfil 💙💙
+Meu nome é valéria barreto
+![image](https://github.com/ra8442026/ra8442026/assets/170681385/fe5d38f7-61ac-459d-9fad-2d514deedaaf)
 
-
-ra8442026/ra8442026 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+Estou estudando na Alura
+Estou me desenvolvendo na linguagem JavaScript
+Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
+![image](https://github.com/ra8442026/ra8442026/assets/170681385/8a44b041-15f9-4ed4-bf92-3d0be13dc100)
 
